@@ -1,3 +1,3 @@
 <?php
-echo "ini tambah";
+echo "ini tambah ya";
 ?>
